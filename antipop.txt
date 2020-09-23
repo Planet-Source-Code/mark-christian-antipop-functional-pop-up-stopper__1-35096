@@ -1,0 +1,8 @@
+Software (C) 1999-2002 Mark Christian
+http://nexxus.dhs.org
+
+Antipop
+
+Purpose: A quick, effective pop-up stopper.
+Usage: Run Antipop and pop-ups are automatically stopped. Toggle it by clicking once on the Antipop icon in the system tray. An icon with a green pop-up means pop-ups are allowed, and a red pop-up means pop-ups are disabled (you could also just read the tooltip for this info). If you want one pop-up to open, hold CTRL when you click the link, and that pop-up will be allowed.
+Notes: Includes IEEVENT control by Crazyman. Obtained from Planet Source Code.

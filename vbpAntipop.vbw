@@ -1,0 +1,8 @@
+frmMain = 259, 91, 820, 667, , 0, 0, 0, 0, C
+IEEvents = 93, 103, 540, 679, C, 70, 80, 517, 656, C
+IBrowser = 0, 0, 0, 0, C
+cBrowser = 0, 0, 0, 0, C
+cBrowserEvents = 93, 103, 540, 679, 
+cBrowsers = 0, 0, 0, 0, C
+cSysTray = 93, 103, 540, 679, C, 70, 80, 517, 656, C
+mSysTray = 0, 0, 0, 0, C
